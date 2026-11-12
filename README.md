@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of ernestdefoe/garage.** Not for installation: use [Packagist](https://packagist.org/packages/ernestdefoe/garage) or the [upstream repository](https://github.com/ernestdefoe/garage).
 
-**0** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/ernestdefoe-garage/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^2.0`
+**2** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/ernestdefoe-garage/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-11-10 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-garage/tree/archive/v1.0.0) |
+| `1.1.0` | 2026-11-12 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-garage/tree/archive/v1.1.0) |
 
 Catalog entry: [packages/ernestdefoe-garage.json](https://github.com/flarchive/archive-index/blob/main/packages/ernestdefoe-garage.json)
 
